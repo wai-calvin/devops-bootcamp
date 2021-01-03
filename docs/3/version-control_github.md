@@ -59,12 +59,13 @@ GitHub is one of the most well known platforms for hosting and managing Git repo
 
 # Deliverable
 
-Be familiar with GitHub's features.
+- Be familiar with GitHub's features.
 
-Find additional examples to source repository solutions similar to GitHub and discuss the pros and cons of each.
+- Find additional examples to source repository solutions similar to GitHub and discuss the pros and cons of each.
 
-Discuss the benefits and downsides of using pull requests to merge code within
-a project.
+- Discuss the benefits and downsides of using pull requests to merge code within a project.
 
-Discuss why an enterprise organization may or may not want to use GitHub.
+- Come up with use cases for and against using a repository Fork.
+
+- Discuss why an enterprise organization may or may not want to use GitHub.
 
